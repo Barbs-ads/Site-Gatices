@@ -81,10 +81,8 @@ Se quiser contribuir com melhorias, ideias ou correções, fique à vontade para
 
 ## 🖼️ **Preview**
 
-<img width="1727" height="652" alt="Captura de tela 2025-12-05 111703" src="https://github.com/user-attachments/assets/95101986-e76e-43d9-ae5c-6a9a11d57a3c" />
-
-
 ---
+
 
 
 
