@@ -79,9 +79,7 @@ Se quiser contribuir com melhorias, ideias ou correções, fique à vontade para
 
 ---
 
-## 🖼️ **Preview**
 
----
 
 
 
